@@ -1,0 +1,5 @@
+Colocaria todo o jogo em apenas uma execução. 
+
+Quando mostra a palavra era colocaria a palavra toda junta sem ser uma lista de str. 
+
+Está muito bem comentado, e funcionado muito bem! Parabéns!
