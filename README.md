@@ -1,7 +1,7 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/estefanialunardi/) 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/estefanialunardi/) <align="right">
 
 <img src="https://user-images.githubusercontent.com/101064720/166814129-22f1a66e-e08f-4b45-a435-a74e741b8324.PNG" width="300" align="right">
 # Jogo Palavrinha
